@@ -167,7 +167,6 @@ export const athletes = [
     bio: "Primeira mulher amputada no snowboard paralímpico brasileiro. 2 ouros na Copa Europeia de Banked Slalom 2025 e 2026. Treina no Snowland em Gramado, RS.",
     history: "Vitória é gaúcha e cresceu praticando diversos esportes. Sua porta de entrada para o esporte foi a patinação artística, onde foi federada pela AABBPOA. A patinação a levou ao snowboard, que pratica no Snowland, em Gramado (RS), por meio de um projeto de promoção ao esporte da CBDN. Treina uma vez por semana aos sábados no parque. Em 2025 e 2026, conquistou 2 medalhas de ouro na Copa Europeia de Banked Slalom, consolidando-se como a primeira mulher amputada a representar o Brasil no snowboard paralímpico. Foi classificada para Milano Cortina 2026 por convite nominal da FIS (Federação Internacional de Esqui e Snowboard) e do IPC. Aos 21 anos, chega como estreante e segunda brasileira a competir no snowboard em Jogos Paralímpicos de Inverno.",
     events: [
-      { name: "Snowboard Cross", startTime: "08/03 às 11:00 (CET)" },
       { name: "Banked Slalom", startTime: "14/03 às 10:00 (CET)" },
     ],
     gradient: "from-cyan-500 to-sky-600",
