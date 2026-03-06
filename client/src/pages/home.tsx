@@ -255,7 +255,6 @@ const snowboardSchedule: ScheduleDay[] = [
         event: "Snowboard Cross - Classificação",
         location: "Cortina d'Ampezzo",
         athletes: [
-          { name: "Vitória Machado", time: "10:00", category: "SB-LL2", gender: "Feminino" },
           { name: "André Barbieri", time: "11:00", category: "SB-LL1", gender: "Masculino" },
         ],
       },
@@ -270,7 +269,6 @@ const snowboardSchedule: ScheduleDay[] = [
         event: "Snowboard Cross - Finais",
         location: "Cortina d'Ampezzo",
         athletes: [
-          { name: "Vitória Machado", time: "10:00", category: "SB-LL2", gender: "Feminino" },
           { name: "André Barbieri", time: "11:00", category: "SB-LL1", gender: "Masculino" },
         ],
       },
